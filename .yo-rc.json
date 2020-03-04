@@ -1,0 +1,7 @@
+{
+  "generator-tsx-docgen": {
+    "promptValues": {
+      "COMPONENTS_PATH": "./src"
+    }
+  }
+}

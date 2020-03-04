@@ -6,7 +6,7 @@ export class CheckboxWithLabel extends React.Component<{
 }, {
   isChecked: boolean
 }> {
-  constructor(props) {
+  constructor(props: any) {
     super(props);
     this.state = { isChecked: false };
   }
