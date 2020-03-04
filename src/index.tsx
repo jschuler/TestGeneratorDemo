@@ -1,2 +1,2 @@
-export * from './CheckboxWithLabel';
-export * from './MyAlert';
+export * from './components/CheckboxWithLabel';
+export * from './components/MyAlert';
